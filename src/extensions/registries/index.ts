@@ -6,3 +6,4 @@ export * from "./app-preference-registry"
 export * from "./status-bar-registry"
 export * from "./kube-object-menu-registry";
 export * from "./cluster-feature-registry"
+export * from "./resource-status-registry"
